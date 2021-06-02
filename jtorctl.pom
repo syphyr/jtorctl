@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project>
   <modelVersion>4.0.0</modelVersion>
-  <groupId>org.torproject</groupId>
+  <groupId>info.guardianproject</groupId>
   <artifactId>jtorctl</artifactId>
-  <version>0.3</version>
+  <version>0.4.5.8</version>
   <url>https://github.com/torproject/jtorctl</url>
   <description>A Java library for controlling a Tor instance via its control port.</description>
   <licenses>
