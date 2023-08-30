@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>info.guardianproject</groupId>
   <artifactId>jtorctl</artifactId>
-  <version>0.4.8.4</version>
+  <version>0.4.8.5</version>
   <url>https://github.com/torproject/jtorctl</url>
   <description>A Java library for controlling a Tor instance via its control port.</description>
   <licenses>
